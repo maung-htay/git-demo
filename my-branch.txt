@@ -1,3 +1,5 @@
 my branch
 
 second my branch
+
+Third line from his branch
